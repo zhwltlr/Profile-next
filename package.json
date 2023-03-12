@@ -4,10 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run build",
+    "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "vercel-deploy": "next build && next export"
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.16",
