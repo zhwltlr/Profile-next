@@ -18,6 +18,7 @@ const Home: NextPage = () => {
   useEffect(() => {
     setDomLoaded(true);
   }, []);
+
   return (
     <>
       {domLoaded && (

@@ -2,6 +2,17 @@
   {
     "id": 1,
     "exImageUrl": "https://framerusercontent.com/images/ShhqalzMh9fB1tTEQzKLKvHfvI.png",
+    "companyName": "CODING HUB",
+    "companyExplanation": "프론트엔드 개발자",
+    "period": "2023-05 ~ ",
+    "content": [
+      "실습을 통해 HTTP 네트워크 통신을 통한 데이터 요청 및 처리 방법과 로그인/회원가입 기능 구현을 통한 인증/인가 프로세스 학습했습니다.",
+      "프로젝트를 통해 다양한 협업 툴(Github, Slack, Trello)을 활용한 올바른 협업 및 소통 방식을 습득하고 Web 서비스에 대한 이해와 실전 문제 해결 역량을 키웠습니다."
+    ]
+  },
+  {
+    "id": 2,
+    "exImageUrl": "https://framerusercontent.com/images/ShhqalzMh9fB1tTEQzKLKvHfvI.png",
     "companyName": "WECODE",
     "companyExplanation": "프론트엔드 과정",
     "period": "2022-10 ~ 2023.01",
@@ -11,7 +22,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "exImageUrl": "https://sbsart.com/2022/img/common/logo_wh.svg",
     "companyName": "SBS 컴퓨터 아카데미",
     "companyExplanation": "웹디자인 과정",
@@ -22,7 +33,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "exImageUrl": "https://user-images.githubusercontent.com/100506719/224533985-addc89a4-5cc0-4be2-96f7-5a18671b96d7.png",
     "companyName": "한샘",
     "companyExplanation": "직매장 사업부 영업파트",
