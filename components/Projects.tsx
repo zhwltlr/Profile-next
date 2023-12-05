@@ -51,20 +51,20 @@ const Projects = () => {
               </Link>
 
               <div className="space-y-4 px-0 md:px-10 max-w-6xl">
-                <h4 className="text-2xl font-semibold text-center mb-5">
+                <h4 className="text-4xl font-semibold text-center mb-5 my-2">
                   <span className="underline decoration-[#f7ab0a]/50">
                     {project.underlineTitle}
                   </span>{" "}
                   {project.projectTitle}
                 </h4>
 
-                <span className="text-center md:text-left mr-4 text-[#f7ab0a]">
+                <span className="text-center md:text-left mr-4 text-[#f7ab0a] text-xl">
                   사용 스텍 : {project.projectStack}
                 </span>
-                <span className="text-center md:text-left text-[#f7ab0a]">
+                <span className="text-center md:text-left text-[#f7ab0a] text-xl">
                   기간 : {project.period}
                 </span>
-                <ul className="list-disc space-y-2 ml-5 mt-3">
+                <ul className="list-disc space-y-2 ml-5 mt-3 text-xl leading-loose">
                   {project.projectContent.map((con) => {
                     return <li key={project.id}>{con}</li>;
                   })}
