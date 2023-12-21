@@ -18,3 +18,31 @@ model User {
   companyName  String
   email String  @unique
 }
+
+
+model Project {
+  id    Int     @id @default(autoincrement())
+  githubUrl String?
+  projectImageUrl  String?
+  underlineTitle String?
+  projectTitle String?
+  projectStack String?
+  projectExplanation String?
+  period String?
+  projectContent String?
+}
+
+model Experience {
+  id    Int     @id @default(autoincrement())
+  companyName String?
+  exImageUrl String?
+  companyExplanation String?
+  period String?
+  Content String?
+}
+
+model Skill {
+  id    Int     @id @default(autoincrement())
+  skillImageUrl String?
+  score String?
+}
