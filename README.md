@@ -6,8 +6,9 @@
 
 ## 사용 기술
 
-- React, Next.js, TypeScript, tailwindcss
-- prisma 와 postgresql을 사용하여 db를 관리하는 프로젝트로 작업중에 있습니다.
+- React, Next.js, TypeScript, tailwindcss, prisma, postgresql
+
+- experience, skills, projects를 담은 자기소개 사이트 입니다.
 
 <br/>
 
